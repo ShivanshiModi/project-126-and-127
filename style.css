@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.note{
+    font-size: 15px;
+    color: deeppink;
+}
+
+.song_name{
+    font-size: 20px;
+}
+
+canvas{
+    background-color: palevioletred;
+    border: 5px solid powderblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum;
+}
